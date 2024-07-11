@@ -8,7 +8,7 @@
 A Sales and Customer Dashboard designed to provide deep insights into sales performance and customer behavior. 
 Developed using Tableau, this dashboard offers a user-friendly interface and interactive elements to analyze key metrics and trends.
 
-<img src="https://raw.githubusercontent.com/kunal9960/kunal9960/main/Tableau.png" width="900">
+<img src="https://raw.githubusercontent.com/kunal9960/kunal9960/main/Tableau.png" width="800">
 
 
 ## Features
