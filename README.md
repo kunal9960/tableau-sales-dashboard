@@ -10,6 +10,7 @@ Developed using Tableau, this dashboard offers a user-friendly interface and int
 
 <img src="https://raw.githubusercontent.com/kunal9960/kunal9960/main/Tableau.png" width="800">
 
+---
 
 ## Features
 
@@ -18,12 +19,14 @@ Developed using Tableau, this dashboard offers a user-friendly interface and int
 - Trend and pattern identification for sales and customer data.
 - Interactive filters and drill-down capabilities for granular data exploration.
 
+---
 
 ## Requirements
 
 - Tableau Desktop or Tableau Online
 - Data source connections (e.g., CSV files, databases)
 
+---
 
 ## Usage
 
@@ -43,11 +46,13 @@ Developed using Tableau, this dashboard offers a user-friendly interface and int
 - Utilize filters to explore data by time, region, product, and customer segment.
 - Drill down into detailed data for deeper analysis.
 
+---
 
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the project and submit a pull request. You can also open an issue to report bugs or suggest enhancements.
 
+---
 
 ## Acknowledgments
 
